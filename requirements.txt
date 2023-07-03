@@ -1,0 +1,6 @@
+matplotlib == 3.6.2
+numpy
+pillow
+tensorflow
+pathlib
+gradio
